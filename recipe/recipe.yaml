@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.1.0"
+  version: "3.1.1"
 
 package:
   name: tango-takeoff
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tango-takeoff/tango_takeoff-${{ version }}.tar.gz
-  sha256: 0a442f2c19ac621fb7c862fdfe4fda22d4dd66108e3254c6d76eaa6099d19686
+  sha256: 7ade4c136f5a19534a41dc5b23b344a5e1300cba134cb428f929d831661dca3d
 
 build:
   number: 0
